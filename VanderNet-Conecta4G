@@ -1,0 +1,504 @@
+{
+  "Version": "67",
+      "ReleaseNotes": "♻️ Nova Atualização Disponível, para uma melhor conexão mantenha-se sempre atualizado♻️\n •••••••••••••••••••••••••••••••••••••••••••••\n
+    🆚 Versão: 67\n
+•••••••••••••••••••••••••••••••••••••••••••••\n
+  🔰Funcionando🔰\n
+🔰🟡𝗢𝗶     ONLINE 🟢\n
+🔰🔵𝗧𝗜𝗠    ONLINE 🟢\n
+🔰🟣𝗩𝗜𝗩𝗢   ONLINE 🟢\n
+🔰🔴𝗖𝗟𝗔𝗥𝗢  ONLINE 🟢\n
+•••••••••••••••••••••••••••••••••••••••••••••••\n
+✅ *ᴄᴏɴᴇxᴀ̃ᴏ ᴠɪᴀ ᴀᴘʟɪᴄᴀᴛɪᴠᴏ*✅\n
+SEJA UM USUARIO VIP E TENHA A MELHOR INTERNET ILIMITADA!!!",
+  "UrlUpdate": "https://bitbin.it/4kDfeuIJ/raw/",
+ "Sms": "",
+  "EmailFeedback": "@gmail.com",
+  "UrlContato": "https://t.me/",
+  "UrlTermos": "Link de termos",
+  "CheckUser": "true",
+  "UdpPort": "7300;7100",
+  "Servers": [
+     {
+      "Name": "SERVIDOR VANDERNET",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "vandernet2.ascnet.tk",
+      "CheckUser": "http:/144.217.235.226:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+  ],
+"Networks": [
+    {
+	     "Name":"VIVO DDD65",
+         "FLAG":"ic_vivo",
+         "Payload":"GET wss://ayuda.tigo.com.gt/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+         "SNI":"",
+         "TlsIP":"",
+         "ProxyIP":"ayuda.tigo.com.gt",
+         "ProxyPort":"80",
+         "Info":"Proxy" 
+    },
+    {
+	            "Name": "VIVO FLARE DDD65",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.51.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO FLARE 2  DDD",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "support.deezer.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO FLARE 3 DDD65",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "ffsupportbd.garena.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+	"Name": "VIVO CLOUD",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d247saha93jjz9.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+},
+{
+	        "Name": "VIVO UNLI",
+            "FLAG": "vivo",
+            "Payload": "GET-CDN / [protocol][crlf]Host: [app_host][crlf]Connection:Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "sgs2.zevesh.host",
+            "TlsIP": "cdn.appsflyer.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "VIVO LIMIT",
+            "FLAG": "vivo",
+            "Payload": "GET-CDN / HTTP/1.1[crlf]Host: [app_host][crlf]Connection:Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "api2.VIVOnet.id",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO OPOK",
+            "FLAG": "vivo",
+            "Payload": "GET-CDN / HTTP/1.1[crlf]Host: [app_host][crlf]Connection:Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "sogood.linefriends.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO MUSIK",
+            "FLAG": "vivo",
+            "Payload": "GET-CDN / HTTP/1.1[crlf]Host: [app_host][crlf]Connection:Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "investors.spotify.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO EDUKASI",
+            "FLAG": "vivo",
+            "Payload": "GET-CDN / HTTP/1.1[crlf]Host: [app_host][crlf]Connection:Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "www.udemy.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+	        "Name": "VIVO HALLS 1",
+            "FLAG": "vivo",
+            "Payload": "GET-CDN / HTTP/1.1[crlf]Host: [app_host][crlf]Connection:Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.22.64.181",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO EDUKASI 1",
+            "FLAG": "vivo",
+            "Payload": "GET-CDN / HTTP/1.1[crlf]Host: [app_host][crlf]Connection:Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "www.udemy.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO EDUKASI 2",
+            "FLAG": "vivo",
+            "Payload": "GET-CDN / HTTP/1.1[crlf]Host: [app_host][crlf]Connection:Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.17.70.206",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+	  "Name": "VIVO 1 ONLINE",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d247saha93jjz9.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "recarga.vivo.com.br",
+      "TlsIP": "108.139.166.122",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyIP": "108.139.166.21",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO 2 ONLINE", 
+      "FLAG": "vivo", 
+      "Payload": "GET / HTTP/1.1[crlf]Host:d247saha93jjz9.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "planosvivointernet.com.br",
+      "TlsIP": "108.158.147.103",
+      "ProxyIP": "planosvivointernet.com.br",
+      "ProxyIP": "108.158.147.40",
+      "ProxyPort": "80",
+      "Info": "Proxy" 
+    },
+    {
+      "Name": "VIVO 3 ONLINE",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d247saha93jjz9.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "web.vivorecarga.m4u.com.br",
+      "TlsIP": "108.139.166.109",
+      "ProxyIP": "web.vivorecarga.m4u.com.br",
+      "ProxyIP": "108.139.166.70",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO 4 ONLINE",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d247saha93jjz9.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "d374bfm8v1rq2v.cloudfront.net",
+      "TlsIP": "108.139.166.122",
+      "ProxyIP": "d374bfm8v1rq2v.cloudfront.net",
+      "ProxyIP": "108.139.166.109",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO 1 DDDS ",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1\nHost: c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host] \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.16.51.111",
+      "ProxyIP": "104.16.51.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO 2 DDDS",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1\nHost: c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host] \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "104.16.53.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO 3 DDDS",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1\nHost: itsupport.surveymonkey.com\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host] \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "104.16.53.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO 4 DDDS",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1\nHost: support.deezer.com\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host] \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.16.51.111",
+      "ProxyIP": "104.16.51.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+	"Name": "TIM 29/12", 
+    "FLAG": "tim", 
+    "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n", 
+     "SNI": "", 
+     "TlsIP": "", 
+     "ProxyIP": "104.19.239.25", 
+     "ProxyPort": "80", 
+     "Info": "Proxy"
+     },
+     {
+      "Name": "TIM DIRECT 29/12 1",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.19.239.25",
+      "ProxyPort": "80",
+      "Info": "Proxy"     
+    },
+     {
+      "Name": "TIM DIRECT 29/12 2",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.53.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"     
+    },
+    {
+      "Name": "TIM 1 VALIDADE",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1\nHost: cms-assets-p.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.19.239.25",
+      "ProxyIP": "104.19.239.25",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 2 VALIDADE",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1\nHost: mobile.c6bank.app\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.19.240.25",
+      "ProxyIP": "104.19.240.25",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 3 VALIDADE",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1\nHost: c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.16.51.111",
+      "ProxyIP": "104.16.51.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 4 VALIDADE",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1\nHost: support.deezer.com\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host] \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "104.16.53.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 5 VALIDADE",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host] \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.19.239.25",
+      "ProxyIP": "104.19.239.25",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 6 VALIDADE",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1\nHost: gitlab.com\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host] \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.18.29.182",
+      "ProxyIP": "104.18.29.182",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 7 VALIDADE",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1\nHost: image.mail.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host] \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.18.29.182",
+      "ProxyIP": "104.18.29.182",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 8 VALIDADE",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1\nHost: blog.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host] \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "104.16.51.111",
+      "ProxyIP": "104.16.51.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 1 EXPIRADO",
+      "FLAG": "tim",
+      "Payload": "MERGE mobile.adobe.com HTTP/1.1[crlf]Host: mobile.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "mobile.adobe.com",
+      "ProxyIP": "179.96.107.232",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 2 EXPIRADO",
+      "FLAG": "tim",
+      "Payload": "MERGE buzzfeed.com HTTP/1.1[crlf]Host: buzzfeed.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "buzzfeed.com",
+      "ProxyIP": "179.96.107.232",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 3 EXPIRADO",
+      "FLAG": "tim",
+      "Payload": "PATCH triggercampaign.adobe.com HTTP/1.1[crlf]Host: triggercampaign.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "triggercampaign.adobe.com",
+      "ProxyIP": "179.96.107.232",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 4 EXPIRADO",
+      "FLAG": "tim",
+      "Payload": "ACL mobile.google.com HTTP/1.1[crlf]Host: mobile.google.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "mobile.google.com",
+      "ProxyIP": "179.96.107.232",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 5 EXPIRADO",
+      "FLAG": "tim",
+      "Payload": "PATCH campaign.adobe.com HTTP/1.1[crlf]Host: campaign.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "campaign.adobe.com",
+      "ProxyIP": "179.96.107.232",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 6 EXPIRADO",
+      "FLAG": "tim",
+      "Payload": "PATCH summit.adobe.com HTTP/1.1[crlf]Host: summit.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "summit.adobe.com",
+      "ProxyIP": "179.96.107.232",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 7 EXPIRADO",
+      "FLAG": "tim",
+      "Payload": "MERGE summit.adobe.com HTTP/1.1[crlf]Host: translate.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "translate.adobe.com",
+      "ProxyIP": "179.96.107.232",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 8 EXPIRADO",
+      "FLAG": "tim",
+      "Payload": "MERGE summit.adobe.com HTTP/1.1[crlf]Host: www.creative.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "www.creative.adobe.com",
+      "ProxyIP": "179.96.107.232",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "CLARO ONLINE",
+      "FLAG": "claro",
+      "Payload": "GET wss://d247saha93jjz9.cloudfront.net/ HTTP/1.1[crlf]Host: origin.api3.amxrest.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "origin.api3.amxrest.net",
+      "ProxyIP": "origin.api3.amxrest.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+          "Name": "CLARO ONLINE 2",
+      "FLAG": "claro",
+      "Payload": "GET wss://d247saha93jjz9.cloudfront.net/ HTTP/1.1[crlf]Host: origin.api3.amxrest.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "origin.api3.amxrest.net",
+      "ProxyIP": "origin.api3.amxrest.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "CLARO ONLINE 3",
+      "FLAG": "claro",
+      "Payload": "GET wss://d247saha93jjz9.cloudfront.net/ HTTP/1.1[crlf]Host: origin.api3.amxrest.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "origin.api3.amxrest.net",
+      "ProxyIP": "origin.api3.amxrest.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "OI 1 ONLINE",
+      "FLAG": "oi",
+      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "www.hbogo.com.br",
+      "TlsIP": "www.hbogo.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "OI 2 ONLINE",
+      "FLAG": "oi",
+      "Payload": "GET sni://www.hbogo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "www.hbogo.com.br",
+      "TlsIP": "104.16.51.91",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "OI 3 ONLINE",
+      "FLAG": "oi",
+      "Payload": "GET wss://bam.nr-data.net// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "bam.nr-data.net",
+      "ProxyIP": "bam.nr-data.net",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    }
+  ]
+}

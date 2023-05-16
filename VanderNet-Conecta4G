@@ -11,7 +11,7 @@
 •••••••••••••••••••••••••••••••••••••••••••••••\n
 ✅ *ᴄᴏɴᴇxᴀ̃ᴏ ᴠɪᴀ ᴀᴘʟɪᴄᴀᴛɪᴠᴏ*✅\n
 SEJA UM USUARIO VIP E TENHA A MELHOR INTERNET ILIMITADA!!!",
-  "UrlUpdate": "https://raw.githubusercontent.com/ascnet/Payload_Clientes/main/VanderNet-Conecta4G",
+  "UrlUpdate": "https://raw.githubusercontent.com/ascnet/Payload_Clientes/main/VanderNet-Conecta4G,
   "Sms": "",
   "EmailFeedback": "@gmail.com",
   "UrlContato": "https://t.me/",
@@ -33,7 +33,7 @@ SEJA UM USUARIO VIP E TENHA A MELHOR INTERNET ILIMITADA!!!",
   ],
 "Networks": [
     {
-"Name": "VIVO GOLD",
+      "Name": "VIVO GOLD",
       "FLAG": "vivo",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:[app_host][split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -757,34 +757,44 @@ SEJA UM USUARIO VIP E TENHA A MELHOR INTERNET ILIMITADA!!!",
             "Info": "Proxy"
 },
 {
-  "Name": "🔵 TIM EXPIRADO1🚨",
-  "FLAG": "tim",
-  "Payload": "PATCH HTTP/1.0 [crlf]Host: map.qq.com[crlf]",
-  "SNI": "",
-  "TlsIP": "",
-  "ProxyIP": "ultranet.ascnet.tk",
-  "ProxyPort": "80",
-  "Info": "Proxy"
-  }, 
-{ 
-      "Name": "🔵TIM EXPIRADO 2🚨", 
-      "FLAG": "tim", 
-      "Payload": "MOVE HTTP/1.1[lf]Host:pt.foursquare.com/v/vivo-portal-celulares/519cd8a3498e55a588aa93c1[lf][lf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "ultranet.ascnet.tk", 
-      "ProxyPort": "80", 
-      "Info": "Proxy" 
-    },
-{
-      "Name": "🔵 TIM EXPORADO 3🚨 ",
-      "FLAG": "tim",
-      "Payload": "HTTP/1.1[crlf] [crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "ultranet.ascnet.tk",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+ "Name": "TIM EXPIRADO | [01]",
+                "FLAG": "tim",
+                "Payload": "MERGE ok.ru HTTP/1.1[crlf]Host: ok.ru[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[crlf]",
+                "SNI": "",
+                "TlsIP": "",
+                "ProxyIP": "45.235.6.20",
+                "ProxyPort": "80",
+                "Info": "Direct"
+          },
+          {
+                "Name": "TIM EXPIRADO | [02]",
+                "FLAG": "tim.png",
+                "Payload": "MERGE plus.google.com HTTP/1.1[crlf]Host: plus.google.com[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[crlf]",
+                "SNI": "",
+                "TlsIP": "",
+                "ProxyIP": "pablioguimaraes.shop",
+                "ProxyPort": "80",
+                "Info": "Proxy"
+          },
+          {
+                "Name": "TIM EXPIRADO | [03]",
+                "FLAG": "tim.png",
+                "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
+                "SNI": "",
+                "TlsIP": "",
+                "ProxyIP": "pablioguimaraes.shop",
+                "ProxyPort": "80",
+                "Info": "Proxy"
+          },
+          {
+                "Name": "TIM EXPIRADO | [04]",
+                "FLAG": "tim",
+                "Payload": "MERGE mobile.adobe.com HTTP/1.1[crlf]Host: mobile.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+                "SNI": "",
+                "TlsIP": "mobile.adobe.com",
+                "ProxyIP": "pablioguimaraes.shop",
+                "ProxyPort": "80",
+                "Info": "Proxy"
     },
 {
        "Name": "🔴CLARO SALDO VALIDO 1🔴",
